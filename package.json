@@ -1,0 +1,24 @@
+{
+  "name": "logjs",
+  "version": "1.0.0",
+  "description": "简易的日志工具",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howxin/logjs.git"
+  },
+  "author": "howxin",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/howxin/logjs/issues"
+  },
+  "homepage": "https://github.com/howxin/logjs#readme"
+}
